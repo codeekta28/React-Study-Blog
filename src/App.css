@@ -1,0 +1,6 @@
+header{
+  height:60vh
+}
+header img:nth-of-type(1){
+  height: 60vh;
+}
